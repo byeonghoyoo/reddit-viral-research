@@ -1,4 +1,4 @@
-# 마이튜브 Reddit 홍보 진행 기안
+# 레딧 바이럴 상세 조사 및 마이튜브 진행 승인 요청
 
 뷰티블라썸의원 마이튜브 진행 검토와 최종 승인 요청을 정리했습니다. 기준일은 2026-11-06입니다.
 
@@ -16,7 +16,7 @@ https://byeonghoyoo.github.io/reddit-viral-research/
 
 ## 파일
 
-- index.html: 최종 승인 요청을 맨 위에 둔 HTML/CSS 기안입니다. 외부 라이브러리 없이 표시됩니다.
+- index.html: 기존 8개 장의 상세 조사 보고서를 유지하고, 맨 위에 최종 승인 요청·예산·마이튜브 진행 요약을 추가한 HTML/CSS 통합 보고서입니다. 기존 탭·가격표·검증 근거를 보존했습니다.
 - mytube-approval.sources.md: 가격·잔액·결제 전 금액 및 업체 답변의 확인 근거입니다.
 - research-archive-2026-09-18.html: 이전 시장조사 원문입니다. 기존 assets/ 및 img/는 보존했습니다.
 
